@@ -1,0 +1,87 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+
+body {
+  background: url('https://static-communitytable.parade.com/wp-content/uploads/2014/03/rethink-target-heart-rate-number-ftr.jpg') fixed;
+  background-size: cover;
+}
+
+.test {
+  max-width: 740px;
+  padding: 15px;
+  margin: 0 auto;
+  border-radius: 0.3em;
+  background-color: #f2f2f2;
+}
+
+.test1 {
+  /* height: 650px; */
+  font-size: 12px;
+  padding: 15px;
+  margin: 0 auto;
+  border-radius: 0.3em;
+  background-color: #f2f2f2ef;
+}
+
+*[role="form"] h2 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 40px;
+  font-weight: 600;
+  color: #000000;
+  margin-top: 5%;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+}
+
+.test1 h2 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 40px;
+  font-weight: 600;
+  color: #000000;
+  margin-top: 2% !important;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+}
+
+.test1 h2 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 40px;
+  font-weight: 600;
+  color: #000000;
+  margin-top: 5%;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+}
+
+/* .changeBackgroundColor {
+  background-color: lightgreen;
+  height: 150px;
+  width: 150px;
+} */
+
+.img-heigthWidth {
+  height: 150px;
+  width: 150px;
+  border-radius: 100%;
+}
+
+.listImg {
+  width: 32px;
+  height: 32px;
+  border-radius: 100%;
+}
+
+.p-box {
+  padding-top: 50px;
+}
